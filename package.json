@@ -1,0 +1,25 @@
+{
+  "name": "wa_vjezbe_01",
+  "version": "1.0.0",
+  "description": "Kolegij web aplikacije, prve vjezbe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarijaKuric/wa_vjezbe_01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarijaKuric/wa_vjezbe_01/issues"
+  },
+  "homepage": "https://github.com/MarijaKuric/wa_vjezbe_01#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
